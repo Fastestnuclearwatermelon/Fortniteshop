@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Fastestnuclearwatermelon/Fortniteshop/static/css/main.74e28345.css",
+    "main.js": "/Fastestnuclearwatermelon/Fortniteshop/static/js/main.52a97096.js",
+    "index.html": "/Fastestnuclearwatermelon/Fortniteshop/index.html",
+    "main.74e28345.css.map": "/Fastestnuclearwatermelon/Fortniteshop/static/css/main.74e28345.css.map",
+    "main.52a97096.js.map": "/Fastestnuclearwatermelon/Fortniteshop/static/js/main.52a97096.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74e28345.css",
+    "static/js/main.52a97096.js"
+  ]
+}
